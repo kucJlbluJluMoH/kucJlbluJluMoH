@@ -2,7 +2,7 @@
 
 Focused on gameplay systems and architecture. Open to working on pretty much anything.
 
-Resume: [CV.pdf](./CV.pdf) - LinkedIn: [ilia-nerovnov](https://linkedin.com/in/ilia-nerovnov) - Email: ilyanerovnoff@gmail.com
+Resume: [CV.pdf](https://kucjlblujlumoh.github.io/CV/cv.pdf) - LinkedIn: [ilia-nerovnov](https://linkedin.com/in/ilia-nerovnov) - Email: ilyanerovnoff@gmail.com
 
 ---
 
