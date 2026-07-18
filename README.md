@@ -2,7 +2,7 @@
 
 Focused on gameplay systems and architecture. Open to working on pretty much anything.
 
-Resume: [CV.pdf](https://kucjlblujlumoh.github.io/CV/cv.pdf) - LinkedIn: [ilia-nerovnov](https://linkedin.com/in/ilia-nerovnov) - Email: ilyanerovnoff@gmail.com
+Resume: [CV.pdf](./CV.pdf) - LinkedIn: [ilia-nerovnov](https://linkedin.com/in/ilia-nerovnov) - Email: ilyanerovnoff@gmail.com
 
 ---
 
@@ -23,16 +23,16 @@ Resume: [CV.pdf](https://kucjlblujlumoh.github.io/CV/cv.pdf) - LinkedIn: [ilia-n
 
 ## Top Languages
 
-![C#](https://progress-bar.dev/74/?title=C%23%20-%20268k%20LOC&width=320&color=239120)
+![C#](https://progress-bar.xyz/74/?title=C%23%20-%20268k%20LOC&width=320&color=239120)
 
-![Python](https://progress-bar.dev/9/?title=Python%20-%2032k%20LOC&width=320&color=3776AB)
+![Python](https://progress-bar.xyz/9/?title=Python%20-%2032k%20LOC&width=320&color=3776AB)
 
-![ShaderLab](https://progress-bar.dev/6/?title=ShaderLab%20-%2020k%20LOC&width=320&color=7B68EE)
+![ShaderLab](https://progress-bar.xyz/6/?title=ShaderLab%20-%2020k%20LOC&width=320&color=7B68EE)
 
-![JavaScript](https://progress-bar.dev/5/?title=JavaScript%20-%2017k%20LOC&width=320&color=F0DB4F)
+![JavaScript](https://progress-bar.xyz/5/?title=JavaScript%20-%2017k%20LOC&width=320&color=F0DB4F)
 
-![Lua](https://progress-bar.dev/2/?title=Lua%20-%207k%20LOC&width=320&color=2C2D72)
+![Lua](https://progress-bar.xyz/2/?title=Lua%20-%207k%20LOC&width=320&color=2C2D72)
 
-![HTML](https://progress-bar.dev/1/?title=HTML%20-%205k%20LOC&width=320&color=E34F26)
+![HTML](https://progress-bar.xyz/1/?title=HTML%20-%205k%20LOC&width=320&color=E34F26)
 
-![Other](https://progress-bar.dev/3/?title=Other%20-%2012k%20LOC&width=320&color=888888)
+![Other](https://progress-bar.xyz/3/?title=Other%20-%2012k%20LOC&width=320&color=888888)
