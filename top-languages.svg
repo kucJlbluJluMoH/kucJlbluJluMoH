@@ -3,30 +3,30 @@
 
   <text x="0" y="32.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">C#</text>
   <rect x="120" y="10" width="320" height="34" rx="6" fill="#30363d"/>
-  <rect x="120" y="10" width="236.8" height="34" rx="6" fill="#239120"/>
-  <text x="452" y="32.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">74% · 268k LOC</text>
+  <rect x="120" y="10" width="148.2" height="34" rx="6" fill="#239120"/>
+  <text x="452" y="32.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">46% · 71k LOC</text>
   <text x="0" y="76.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Python</text>
   <rect x="120" y="54" width="320" height="34" rx="6" fill="#30363d"/>
-  <rect x="120" y="54" width="28.8" height="34" rx="6" fill="#3776AB"/>
-  <text x="452" y="76.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">9% · 32k LOC</text>
-  <text x="0" y="120.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">ShaderLab</text>
+  <rect x="120" y="54" width="89.6" height="34" rx="6" fill="#3776AB"/>
+  <text x="452" y="76.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">28% · 43k LOC</text>
+  <text x="0" y="120.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">JavaScript</text>
   <rect x="120" y="98" width="320" height="34" rx="6" fill="#30363d"/>
-  <rect x="120" y="98" width="19.2" height="34" rx="6" fill="#7B68EE"/>
-  <text x="452" y="120.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">6% · 20k LOC</text>
-  <text x="0" y="164.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">JavaScript</text>
+  <rect x="120" y="98" width="36.3" height="34" rx="6" fill="#F0DB4F"/>
+  <text x="452" y="120.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">11% · 17k LOC</text>
+  <text x="0" y="164.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Lua</text>
   <rect x="120" y="142" width="320" height="34" rx="6" fill="#30363d"/>
-  <rect x="120" y="142" width="16.0" height="34" rx="6" fill="#F0DB4F"/>
-  <text x="452" y="164.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">5% · 17k LOC</text>
+  <rect x="120" y="142" width="15.1" height="34" rx="6" fill="#2C2D72"/>
+  <text x="452" y="164.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">5% · 7k LOC</text>
   <text x="0" y="208.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Other</text>
   <rect x="120" y="186" width="320" height="34" rx="6" fill="#30363d"/>
-  <rect x="120" y="186" width="9.6" height="34" rx="6" fill="#888888"/>
-  <text x="452" y="208.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">3% · 12k LOC</text>
-  <text x="0" y="252.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Lua</text>
+  <rect x="120" y="186" width="13.9" height="34" rx="6" fill="#888888"/>
+  <text x="452" y="208.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">4% · 7k LOC</text>
+  <text x="0" y="252.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">HTML</text>
   <rect x="120" y="230" width="320" height="34" rx="6" fill="#30363d"/>
-  <rect x="120" y="230" width="6.4" height="34" rx="6" fill="#2C2D72"/>
-  <text x="452" y="252.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">2% · 7k LOC</text>
-  <text x="0" y="296.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">HTML</text>
+  <rect x="120" y="230" width="9.8" height="34" rx="6" fill="#E34F26"/>
+  <text x="452" y="252.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">3% · 5k LOC</text>
+  <text x="0" y="296.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Jupyter</text>
   <rect x="120" y="274" width="320" height="34" rx="6" fill="#30363d"/>
-  <rect x="120" y="274" width="4.0" height="34" rx="6" fill="#E34F26"/>
-  <text x="452" y="296.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">1% · 5k LOC</text>
+  <rect x="120" y="274" width="7.1" height="34" rx="6" fill="#F37626"/>
+  <text x="452" y="296.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">2% · 3k LOC</text>
 </svg>
